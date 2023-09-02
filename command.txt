@@ -24,6 +24,10 @@ git checkout -b <branch name> to direct creating branch and switching to branch
 TO delete the branch
 git branch -b <branch name> 
 
+To push repository
+git remote add origin <url>
+git push -u origin <branch name>
+
 TO undo the changes
 git reset <file name> chnage from unstage to untracked
 git reset (reset all files)
