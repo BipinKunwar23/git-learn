@@ -7,3 +7,5 @@ git init (traced file)
 git add . (Staging)
 git commit -m "your commit"(snapshot and commit)
 git commit -a -m "your commit" (direct commit)
+
+git log commands
