@@ -9,3 +9,9 @@ git commit -m "your commit"(snapshot and commit)
 git commit -a -m "your commit" (direct commit)
 
 git log commands
+
+change branch name
+git branch -M main (here main is branch name) 
+
+merge command
+git merge <branch name> here branch is develop
