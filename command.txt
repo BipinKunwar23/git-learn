@@ -31,6 +31,9 @@ To push repository
 git remote add origin <url>
 git push -u origin <branch name>
 
+git pull command
+git pull origin main
+
 TO undo the changes
 git reset <file name> chnage from unstage to untracked
 git reset (reset all files)
