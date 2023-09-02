@@ -9,3 +9,9 @@ git commit -m "your commit"(snapshot and commit)
 git commit -a -m "your commit" (direct commit)
 
 git log commands
+git log -p -1 to view last commit
+
+git branch <branch name> to create branch
+git checkout <branch name>  to switch into branch
+git checkout -b <branch name> to direct creating branch and switching to branch
+
