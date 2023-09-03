@@ -41,4 +41,4 @@ git reset Head~1  (move to one commid behind)
 git reset <hash of commit> (revert to the current has commit)
 git reset hard <hash of commit> (rever hardly)
 
-new lineis added
+new lines are added and make changed using clone
