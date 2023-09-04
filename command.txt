@@ -42,3 +42,4 @@ git reset <hash of commit> (revert to the current has commit)
 git reset hard <hash of commit> (rever hardly)
 
 end of commit
+merge the command
