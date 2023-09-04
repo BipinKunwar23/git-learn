@@ -43,3 +43,4 @@ git reset hard <hash of commit> (rever hardly)
 
 end of commit
 merge the command
+new lines are added and make changed using clone
