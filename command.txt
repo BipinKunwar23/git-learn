@@ -40,8 +40,14 @@ git reset (reset all files)
 git reset Head~1  (move to one commid behind)
 git reset <hash of commit> (revert to the current has commit)
 git reset hard <hash of commit> (rever hardly)
+To check remote
+git remote -v
+
+change remote url
+git remote set-url origin <new url> 
 
 end of commit
 new lines are added and make changed using clone
+
 
 merge the command
