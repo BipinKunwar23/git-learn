@@ -48,6 +48,7 @@ git remote set-url origin <new url>
 
 end of commit
 new lines are added and make changed using clone
-
+new change are added
+I want to make clone in this fikle
 
 merge the command
