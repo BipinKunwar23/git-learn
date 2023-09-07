@@ -48,6 +48,4 @@ git remote set-url origin <new url>
 
 end of commit
 new lines are added and make changed using clone
-
-
-merge the command
+new merge for cloning
