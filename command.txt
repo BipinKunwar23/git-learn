@@ -53,3 +53,4 @@ new change are added
 I want to make clone in this fikle
  This it the clone form the command terminal
 merge the command
+new merge command 
